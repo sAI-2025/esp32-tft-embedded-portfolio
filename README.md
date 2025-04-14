@@ -39,10 +39,10 @@ This project is a unique offline **digital portfolio** with a clean UI, powered 
 ![ESP32 Board](media/esp32.jpg).
 
 ### 🔌 Circuit Connections  
-[Circuit Diagram](media/CircuitDiagram.jpg)
+[Circuit Diagram](media/circuit.jpg)
 
 ### 🎥 Demo Output  
-📺[▶️ Watch Demo Video](media/Output.mp4)
+📺[▶️ Watch Demo Video](media/demo.mp4)
 
 ---
 
