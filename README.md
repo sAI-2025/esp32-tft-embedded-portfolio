@@ -29,6 +29,8 @@
 ---
 
 ## 📸 Visual Overview
+Showcase your embedded development skills on a **3.5” TFT LCD display (ILI9488 driver)** using an **ESP32-S2**.  
+This project is a unique offline **digital portfolio** with a clean UI, powered by low-level 8-bit parallel communication.
 
 ### 🖼️ TFT Display Output  
 ![TFT Display UI](media/tft.jpeg)
@@ -42,7 +44,6 @@
 ### 🎥 Demo Output  
 📺[▶️ Watch Demo Video](media/Output.mp4)
 
-
 ---
 
 ## ✨ Features
@@ -55,27 +56,6 @@
 - 💼 Ideal for showing embedded hardware, firmware, and UI skills
 
 ---
-
-
-## 📸 Visual Overview
-Showcase your embedded development skills on a **3.5” TFT LCD display (ILI9488 driver)** using an **ESP32-S2**.  
-This project is a unique offline **digital portfolio** with a clean UI, powered by low-level 8-bit parallel communication.
-
-
-### 🖼️ TFT Display Output  
-![TFT Display UI](tft.jpeg)
-
-### 🧠 ESP32 Board Setup  
-![ESP32 Board](esp32.jpg)
-
-### 🔌 Circuit Connections  
-![Circuit Diagram](Circuit%20Diagram.jpg)
-
-### 🎥 Demo Output  
- [▶️ Watch Demo Video](Output.mp4)
-
----
-
 
 ## 🧩 Wiring Connections
 
