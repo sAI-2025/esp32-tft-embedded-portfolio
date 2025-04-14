@@ -40,7 +40,7 @@
 [Circuit Diagram](media/CircuitDiagram.jpg)
 
 ### 🎥 Demo Output  
-[▶️ Watch Demo Video](media/Output.mp4)
+📺[▶️ Watch Demo Video](media/Output.mp4)
 
 
 ---
@@ -72,7 +72,7 @@ This project is a unique offline **digital portfolio** with a clean UI, powered 
 ![Circuit Diagram](Circuit%20Diagram.jpg)
 
 ### 🎥 Demo Output  
-📺 [▶️ Watch Demo Video](Output.mp4)
+ [▶️ Watch Demo Video](Output.mp4)
 
 ---
 
