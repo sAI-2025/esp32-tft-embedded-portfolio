@@ -32,16 +32,17 @@
 ## 📸 Visual Overview
 
 ### 🖼️ TFT Display Output  
-![TFT Display UI](tft.jpeg)
+![TFT Display UI](media/tft.jpeg)
 
 ### 🧠 ESP32 Board Setup  
-![ESP32 Board](esp32.jpg)
+![ESP32 Board](media/esp32.jpg)
 
 ### 🔌 Circuit Connections  
-![Circuit Diagram](Circuit Diagram.jpg)
+![Circuit Diagram](media/circuit.jpg)
 
 ### 🎥 Demo Output  
-[▶️ Watch Demo Video](Output.mp4)
+[▶️ Watch Demo Video](media/demo.mp4)
+
 
 ---
 
@@ -153,9 +154,9 @@ Ensure you have:
 
 I love building embedded solutions! If you're a **recruiter**, **hiring manager**, or **developer** looking for someone with deep skills in embedded systems, I'd love to connect.
 
-📧 Email: [cchsaikrishnachowdary@gmail.com](mailto:cchsaikrishnachowdary@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/sai-krishna-chowdary-chundru](https://www.linkedin.com/in/sai-krishna-chowdary-chundru)  
-💻 GitHub: [github.com/sAI-2025](https://github.com/sAI-2025)
+📧 Email: [sai](mailto:cchsaikrishnachowdary@gmail.com)  
+🔗 LinkedIn: [linkedin/sai](https://www.linkedin.com/in/sai-krishna-chowdary-chundru)  
+💻 GitHub: [github/sAI](https://github.com/sAI-2025)
 
 ---
 
