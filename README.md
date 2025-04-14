@@ -37,7 +37,7 @@
 ![ESP32 Board](media/esp32.jpg).
 
 ### 🔌 Circuit Connections  
-![Circuit Diagram](media/Circuit Diagram.jpg)
+[Circuit Diagram](media/Circuit Diagram.jpg)
 
 ### 🎥 Demo Output  
 [▶️ Watch Demo Video](media/Output.mp4)
