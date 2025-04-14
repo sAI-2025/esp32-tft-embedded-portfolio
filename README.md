@@ -34,10 +34,10 @@
 ![TFT Display UI](media/tft.jpeg)
 
 ### 🧠 ESP32 Board Setup  
-![ESP32 Board](media/Circuit Diagram.jpg).
+![ESP32 Board](media/esp32.jpg).
 
 ### 🔌 Circuit Connections  
-![Circuit Diagram](media/circuit.jpg)
+![Circuit Diagram](media/Circuit Diagram.jpg)
 
 ### 🎥 Demo Output  
 [▶️ Watch Demo Video](media/Output.mp4)
