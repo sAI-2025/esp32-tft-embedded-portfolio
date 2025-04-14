@@ -172,7 +172,6 @@ I love building embedded solutions! If you're a **recruiter**, **hiring manager*
 
 This isn't just a project — it's a **hardware-based resume** that runs on its own, without any browser or PC. A true demonstration of what I can build from the ground up as an embedded engineer.
 
-Thanks for checking it out!
 
 
 
