@@ -5,7 +5,6 @@
 
 ---
 
-![ESP32 Board]( )
 
 ## 🚀 Project Highlights
 
